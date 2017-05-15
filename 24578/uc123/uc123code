@@ -1,0 +1,7 @@
+
+Update code in ubuntu server
+if code == 1:
+  print ("Value is a")
+else:
+  print("value is null")
+
